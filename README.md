@@ -1,2 +1,2 @@
 # sgrv
-Sistema de gesstión de renta de vehiculos
+Sistema de gestión de renta de vehiculos
